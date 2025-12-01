@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Werkzeug
+PyJWT
+groq
+python-dotenv
+ 
